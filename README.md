@@ -20,16 +20,16 @@ Here you can find the notebooks accompanying the Computational Comparative Liter
 
 T 03/29 **Diversity in the Digital Humanities**
 
-  Chimamanda Ngozi Adichie. “The danger of a single story” TedGlobal (2009)
+  > Chimamanda Ngozi Adichie. “The danger of a single story” TedGlobal (2009)
 
-  Hoyt Long. “Culture at Global Scale” in Cultural Analytics (2021)
+  > Hoyt Long. “Culture at Global Scale” in Cultural Analytics (2021)
 
-  Roopika Risam. “Other Worlds, Other DHs: Notes towards a DH Accent” in Digital Scholarship in the Humanities, Volume 32, Issue 2, June 2017, Pages 377–
-  384
+  > Roopika Risam. “Other Worlds, Other DHs: Notes towards a DH Accent” in Digital Scholarship in the Humanities, Volume 32, Issue 2, June 2017, Pages 
+  > 377–384
 
-  Paola Ricaurte. “Geopolitics of Knowledge and Digital Humanities” in RedHD (2014)
+  > Paola Ricaurte. “Geopolitics of Knowledge and Digital Humanities” in RedHD (2014)
 
-  In-class activity: Computers in the media: comparing stories on computation
+  > In-class activity: Computers in the media: comparing stories on computation
 
 Th 03/31 **Imperialism and Language**
 

@@ -13,7 +13,9 @@ There are around 7,000 languages spoken across the world, yet only 500 of these 
 ## Repository Contents: 
 Here you can find the notebooks accompanying the Computational Comparative Literature course, taught at Dartmouth College in spring 2022. 
 
-## Syllabus: 
+## Syllabus:
+
+
 **Week 1: Introduction**
 
 ——————————————————————————————————————————
@@ -47,6 +49,7 @@ Th 03/31 **Imperialism and Language**
   >In-class activity: Comparative analysis of Digital Humanities manifestos
 
 
+
 **Week 2: Global Digital Culture**
 
 ——————————————————————————————————————————
@@ -74,7 +77,9 @@ Th 04/07 **Intersectional Feminist Approaches to Digital Culture**
  > In-class activity: Developing a critical praxis: constructing a theoretical framework
 
 *Assignment — Reflection 1*
+
 *Sign-up for presentations and email me which project example you want to present in week 3.*
+
 
 
 **Week 3: Histories and Cultural Criticism of Digital Culture**
@@ -103,6 +108,7 @@ Th 04/14 **Critical Cultural Approaches to Computation**
  > In-class activity: Discussing examples of digital projects and comparative research
 
 
+
 **Week 4: Corpus Building I**
 
 ——————————————————————————————————————————
@@ -129,6 +135,7 @@ T 04/21 **The (In)visible Labor of Digitization**
 F 04/22 X Hour (Optional): Set up: Introduction to Jupyter Notebooks and Python
 
 *Assignment — Reflection 2*
+
 
 
 **Week 5: Corpus Building II**
@@ -161,6 +168,7 @@ F 04/29 X hour (Optional): Corpus Clinic: support for any issues in corpus searc
 *Midterm Assignment — Midterm Project: Corpus Building*
 
 
+
 **Week 6: Reading and Interpretation**
 
 ——————————————————————————————————————————
@@ -185,6 +193,7 @@ Th 05/05 **Deformative Reading: Combining Modes of Reading**
  > Stephen Ramsay. "Potential Readings" in _Reading Machines. University of Illinois Press_, 2011, pp. 32-57
 
  > In-class activity: Analyzing Kafka’s *Metamorphosis*
+
 
 
 **Week 7: Language and Computational Methods**
@@ -219,6 +228,7 @@ Th 05/12 **Methods Archeologies and Text Preprocessing**
  > In-class activity: Methods Archaeology and Tool Criticism
 
 
+
 **Week 8: Analyzing Unstable Objects I**
 
 ——————————————————————————————————————————
@@ -249,6 +259,7 @@ Th 05/19 **Keywords and Concepts**
 F 05/20 X hour (optional): Text Preparation and Text Analysis Clinic
 
 
+
 **Week 9: Analyzing Unstable Objects II**
 
 ——————————————————————————————————————————
@@ -269,6 +280,7 @@ Th 05/26 **Peer-Review session of Final Project**
 F 05/2 X Hour (Optional): Text Analysis Clinic
 
 *Assignment — Reflection 3*
+
 
 
 **Week 10: Conclusion**

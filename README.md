@@ -15,6 +15,7 @@ Here you can find the notebooks accompanying the Computational Comparative Liter
 
 ## Syllabus: 
 **Week 1: Introduction**
+
 ——————————————————————————————————————————
 
 T 03/29 **Diversity in the Digital Humanities**
@@ -47,6 +48,7 @@ Th 03/31 **Imperialism and Language**
 
 
 **Week 2: Global Digital Culture**
+
 ——————————————————————————————————————————
 
 T 04/05 **Digital Imperialism**
@@ -76,6 +78,7 @@ Th 04/07 **Intersectional Feminist Approaches to Digital Culture**
 
 
 **Week 3: Histories and Cultural Criticism of Digital Culture**
+
 ——————————————————————————————————————————
 
 T 04/12 **Histories of Digital Culture**
@@ -100,6 +103,7 @@ Th 04/14 **Critical Cultural Approaches to Computation**
 
 
 **Week 4: Corpus Building I**
+
 ——————————————————————————————————————————
 
 T 04/19 **The Politics of Digitization**
@@ -127,6 +131,7 @@ F 04/22 X Hour (Optional): Set up: Introduction to Jupyter Notebooks and Python
 
 
 **Week 5: Corpus Building II**
+
 ——————————————————————————————————————————
 
 Th 04/26 **Search and Selection**
@@ -156,6 +161,7 @@ F 04/29 X hour (Optional): Corpus Clinic: support for any issues in corpus searc
 
 
 **Week 6: Reading and Interpretation**
+
 ——————————————————————————————————————————
 
 T 05/03 **Linguistic Imperialism in Digital Culture**
@@ -181,6 +187,7 @@ Th 05/05 **Deformative Reading: Combining Modes of Reading**
 
 
 **Week 7: Language and Computational Methods**
+
 ——————————————————————————————————————————
 
 T 05/10 **Reckonings: How is computation changing approaches to language**
@@ -212,6 +219,7 @@ Th 05/12 **Methods Archeologies and Text Preprocessing**
 
 
 **Week 8: Analyzing Unstable Objects I**
+
 ——————————————————————————————————————————
 
 T 05/17 **Spatial Models of Meaning**
@@ -241,6 +249,7 @@ F 05/20 X hour (optional): Text Preparation and Text Analysis Clinic
 
 
 **Week 9: Analyzing Unstable Objects II**
+
 ——————————————————————————————————————————
 
 T 05/24 **Patterns and Sentiments**
@@ -262,6 +271,7 @@ F 05/2 X Hour (Optional): Text Analysis Clinic
 
 
 **Week 10: Conclusion**
+
 ——————————————————————————————————————————
 
 T 05/31 **Final feedback and study session**
